@@ -1,0 +1,186 @@
+.bg-colored, .bg-colored-hover:hover {
+    background-color: #db241b !important
+}
+
+.border-colored, .border-colored-hover:hover {
+    border-color: #db241b !important
+}
+
+.bg-colored1, .bg-colored1-hover:hover {
+    background-color: #c03535 !important
+}
+
+.qdr-hover-5:before, .qdr-hover:before, .strip-timeline .dates div.active:before, .strip-timeline .dates div:hover:before {
+    background-color: #db241b
+}
+
+::selection {
+    background-color: #db241b
+}
+
+#navigation.modern .columns ul li a:hover, #navigation.modern .columns ul.nav > li.active > a, #navigation.modern.scrolled .columns ul li a:hover {
+    color: #db241b !important
+}
+
+.strip-timeline .dates div.active, .strip-timeline .dates div:hover {
+    color: #db241b
+}
+
+.strip-timeline .dates div.active:after, .strip-timeline .dates div:hover:after {
+    border-color: #db241b
+}
+
+.services-with-tabs-1 .service-filters > div {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 300;
+    cursor: pointer
+}
+
+.services-with-tabs-1 .service-filters > div p {
+    display: inline-block;
+    width: 95%;
+    padding: 15px 21px;
+    color: #575757;
+    letter-spacing: 1px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s
+}
+
+.services-with-tabs-1 .service-filters > div:hover p {
+    background-color: #f3f3f3
+}
+
+.services-with-tabs-1 .service-filters > div i {
+    display: block;
+    font-size: 25px;
+    margin-bottom: 10px
+}
+
+.services-with-tabs-1 .service-tabs .strip-btn-container {
+    margin-top: 30px;
+    font-family: inherit
+}
+
+.services-with-tabs-1 .service-tabs a.strip-button {
+    font-size: 16px
+}
+
+.services-with-tabs-1 .service-tabs .cbp-item {
+    max-width: 100%
+}
+
+.services-with-tabs-1 .service-tabs .cbp-item.cbp-item-off {
+    display: block;
+    visibility: hidden;
+    opacity: 0
+}
+
+.services-with-tabs-1 .service-tabs .cbp-item .slick-slide > img {
+    display: block;
+    width: 100%
+}
+
+#concerts .more-concerts.collapsed span#hide, #concerts .more-concerts:not(.collapsed) span#show, #content1 .more-concerts.collapsed span#hide1, #content1 .more-concerts:not(.collapsed) span#show1, .services-with-tabs-1 .service-tabs .cbp-item.cbp-item-off iframe {
+    display: none
+}
+
+@media only screen and (max-width: 800px) {
+    .services-with-tabs-1 .service-filters > div {
+        width: 33.3% !important
+    }
+}
+
+@media only screen and (max-width: 470px) {
+    .services-with-tabs-1 .service-filters > div {
+        width: 50% !important
+    }
+}
+
+.services-with-tabs-1.light-type .service-filters > div.cbp-filter-item-active p {
+    color: #fff;
+    border-color: #000
+}
+
+.services-with-tabs-1.light-type .service-tabs .cbp-item {
+    color: #000;
+    border-color: #000
+}
+
+.services-with-tabs-1.light-type .service-filters > div p {
+    font-size: 14px;
+    font-weight: 300;
+    color: #2b9ffe;
+    letter-spacing: -.4px;
+    border-color: #2b9ffe;
+    background-color: #dee2e6
+}
+
+.services-with-tabs-1.light-type .service-filters > div p i {
+    font-size: 30px;
+    margin-bottom: 15px
+}
+
+#concerts .more-concerts i, #content1 .more-concerts i {
+    margin-left: 5px;
+    font-size: 18px
+}
+
+.services-with-tabs-1.light-type .service-filters > div:hover p {
+    background-color: #db2929;
+    color: #eee
+}
+
+.services-with-tabs-1 .service-filters > div.cbp-filter-item-active p, .services-with-tabs-1 .service-filters > div.cbp-filter-item-active:hover p {
+    background-color: #2e52c2;
+    color: #fff
+}
+
+#concerts {
+    background-color: #1c1c1c
+}
+
+#concerts .item-list-type-1 .list-item:hover {
+    background-color: rgba(0, 0, 0, .2)
+}
+
+#concerts .more-concerts:not(.collapsed) i {
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+
+#content1 .more-concerts:not(.collapsed) i {
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+
+.item-list-type-1 .list-item > div {
+    text-align: center;
+    width: 20%
+}
+
+.item-list-type-1:not(.items-2) .list-item > div:first-child, .item-list-type-1:not(.items-2) .list-item > div:last-child {
+    width: 20%;
+    text-align: center
+}
+
+.item-list-type-1 .list-item > div {
+    text-align: center;
+    width: 20%;
+}
+
+
+.table-responsive table td, .table th {
+    padding: 18px !important;
+}
+
+.table-responsive table thead th {
+    border-bottom: 1px solid #dee2e6;
+}
+
+.table-responsive table tbody td {
+    border-bottom: 1px solid #333;
+}

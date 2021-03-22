@@ -1,0 +1,267 @@
+.colored, .colored-hover:hover {
+    color: #db241b !important
+}
+
+.bg-colored, .bg-colored-hover:hover {
+    background-color: #db241b !important
+}
+
+.border-colored, .border-colored-hover:hover {
+    border-color: #db241b !important
+}
+
+.colored1, .colored1-hover:hover {
+    color: #c03535 !important
+}
+
+.bg-colored1, .bg-colored1-hover:hover {
+    background-color: #c03535 !important
+}
+
+.border-colored1, .border-colored1-hover:hover {
+    border-color: #c03535 !important
+}
+
+.colored2, .colored2-hover:hover {
+    color: #811712 !important
+}
+
+.bg-colored2, .bg-colored2-hover:hover {
+    background-color: #811712 !important
+}
+
+.qdr-hover-5:before, .qdr-hover:before, .strip-timeline .dates div.active:before, .strip-timeline .dates div:hover:before {
+    background-color: #db241b
+}
+
+.border-colored2, .border-colored2-hover:hover {
+    border-color: #811712 !important
+}
+
+::selection {
+    background-color: #db241b
+}
+
+#navigation.modern .columns ul li a:hover, #navigation.modern .columns ul.nav > li.active > a, #navigation.modern.scrolled .columns ul li a:hover {
+    color: #db241b !important
+}
+
+.strip-timeline .dates div.active, .strip-timeline .dates div:hover {
+    color: #db241b
+}
+
+.strip-timeline .dates div.active:after, .strip-timeline .dates div:hover:after {
+    border-color: #db241b
+}
+
+.event-works .item .item-container {
+    background: #1c1c1c;
+    border: 1px solid #282828;
+    color: #666;
+    text-align: left;
+    display: block
+}
+
+.event-works .item .item-img {
+    position: relative;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background: #111
+}
+
+.event-works .item .item-img .city {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    font-size: 60px;
+    line-height: 50px;
+    font-family: Anton, sans-serif;
+    text-transform: uppercase;
+    z-index: 2;
+    opacity: .3;
+    color: #fff
+}
+
+.event-works .item .item-img img {
+    position: relative;
+    z-index: 1;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s
+}
+
+.event-works .item:hover .item-img img {
+    -ms-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+.event-works .item .item-title {
+    color: #fff;
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 21px;
+    text-transform: uppercase;
+    padding-left: 20px
+}
+
+.event-works .item .item-city {
+    color: #989898;
+    font-size: 15px;
+    line-height: 15px;
+    margin-top: 3px;
+    text-transform: uppercase;
+    border-bottom: 1px solid;
+    border-color: #282828;
+    padding-left: 20px;
+    padding-bottom: 20px
+}
+
+.event-works .item .date {
+    color: #989898;
+    font-size: 15px;
+    text-transform: uppercase;
+    padding: 10px 0 10px 20px
+}
+
+.event-works .cbp-filter-item {
+    background-color: #1c1c1c;
+    border-color: #282828;
+    color: #eee;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-family: inherit;
+    font-size: 17px
+}
+
+.event-works .cbp-l-filters-button .cbp-filter-item.cbp-filter-item-active, .event-works .cbp-l-filters-button .cbp-filter-item:hover {
+    background-color: #db241b;
+    border-color: #3e3d3d;
+    color: #fff
+}
+
+.event-works .cbp-l-filters-button .cbp-filter-counter {
+    background-color: #db241b
+}
+
+.event-works .cbp-l-filters-button .cbp-filter-counter:after {
+    border-top-color: #db241b
+}
+
+.event-works .cbp-search-input {
+    background: 0 0;
+    border-color: #3e3d3d;
+    color: #eee
+}
+
+.event-works .cbp-search-nothing {
+    color: #eee
+}
+
+@media only screen and (max-width: 700px) {
+    .event-works .item .item-title {
+        font-size: 19px
+    }
+
+    .event-works .item a.item-link {
+        font-size: 13px;
+        margin: 5px 3px;
+        padding: 4px 15px
+    }
+}
+
+.modal-backdrop.in {
+    opacity: .8
+}
+
+.layered-items {
+    padding: 120px 0 70px
+}
+
+.layered-items .layer-container {
+    position: relative;
+    display: block;
+    margin: 0;
+    padding: 0
+}
+
+.layered-items .layer-container .layer {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%
+}
+
+.layered-items .layer-container .layer img {
+    display: block;
+    max-width: 100%;
+    margin: 0;
+    width: 100%
+}
+
+.layered-items .layer-container .arrow-layer {
+    -ms-transform: translateX(-140px);
+    -webkit-transform: translateX(-140px);
+    transform: translateX(-140px);
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    transition: all .4s
+}
+
+.layered-items .layer-container:hover .arrow-layer {
+    -ms-transform: translateX(-20px);
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px)
+}
+
+.layered-items .layer-container .image-layer {
+    -ms-transform: translateX(0);
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    transition: all .4s
+}
+
+.layered-items .layer-container:hover .image-layer {
+    -ms-transform: translateX(-20px);
+    -webkit-transform: translateX(-20px);
+    transform: translateX(-20px)
+}
+
+#concerts {
+    background-color: #1c1c1c
+}
+
+#concerts .item-list-type-1 .list-item:hover {
+    background-color: rgba(0, 0, 0, .2)
+}
+
+#concerts .more-concerts.collapsed span#hide, #concerts .more-concerts:not(.collapsed) span#show {
+    display: none
+}
+
+#concerts .more-concerts i {
+    margin-left: 5px;
+    font-size: 18px
+}
+
+#concerts .more-concerts:not(.collapsed) i {
+    -ms-transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg)
+}
+
+.table td, .table th {
+    padding: 18px !important
+}
+
+.table thead th {
+    border-bottom: 1px solid #dee2e6
+}
+
+td, th {
+    border-bottom: 1px solid #333
+}

@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"style"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/amigo/user/rider/web/index.html",
+		"/C/Downloaded Web Sites/thedreamridersgroup.com/index.html",
+		"/C/Downloaded Web Sites/thedreamridersgroup.com/css/components/classic_datepicker.css",
+		"/C/Users/Jishnu/Desktop/upload.php",
+		"/C/Users/Jishnu/Desktop/social.html",
+		"/C/Users/Jishnu/Desktop/blog.html",
+		"/C/Users/Jishnu/Desktop/trip.html",
+		"/C/xampp/htdocs/myvideo.php",
+		"/C/xampp/htdocs/uploa.php",
+		"/C/xampp/htdocs/Upload Video/index.php",
+		"/C/xampp/htdocs/Upload Video/dbconn.php",
+		"/C/xampp/htdocs/Upload Video/db/video.sql",
+		"/C/xampp/htdocs/dashboard/phpinfo.php",
+		"/C/xampp/htdocs/a.htaccess",
+		"/C/xampp/htdocs/info.php",
+		"/C/xampp/htdocs/source/chat_begin.html",
+		"/C/xampp/htdocs/Upload Video/image.php",
+		"/C/xampp/htdocs/style.css",
+		"/C/xampp/htdocs/font-awesome.css",
+		"/C/xampp/htdocs/jquery.js",
+		"/C/xampp/htdocs/like-and-dislike-system-with-jquery-php-and-mysql/vote.php",
+		"/C/xampp/htdocs/like-and-dislike-system-with-jquery-php-and-mysql/header.php",
+		"/C/xampp/htdocs/like-and-dislike-system-with-jquery-php-and-mysql/footer.php",
+		"/C/xampp/htdocs/like-and-dislike-system-with-jquery-php-and-mysql/container.php",
+		"/C/xampp/htdocs/like-and-dislike-system-with-jquery-php-and-mysql/vote.js",
+		"/C/xampp/htdocs/like-and-dislike-system-with-jquery-php-and-mysql/Posts.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/index.php",
+		"/C/Users/Jishnu/Desktop/Chat/Chat/process.php",
+		"/C/xampp/htdocs/source/inc/chat.inc.php",
+		"/C/xampp/htdocs/source/inc/login.inc.php",
+		"/C/xampp/htdocs/source/messages.php",
+		"/C/xampp/htdocs/source/main.php",
+		"/C/xampp/htdocs/source/index.html",
+		"/C/xampp/htdocs/simple-php-chat-using-websocket/simple-php-chat-using-websocket/index.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/chat/chat.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/chat/index.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/includes/config.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/submit.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/includes/const.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/includes/init.php",
+		"/C/xampp/htdocs/Chat-Room-PHP-Project/Chat Room PHP Project/Chat Room/login.php",
+		"/C/xampp/htdocs/comments-system-using-php-and-ajax/comments-system-using-php-and-ajax/index.php",
+		"/C/xampp/htdocs/Upload Video/video.html",
+		"/C/xampp/htdocs/Upload Video/video_modal.php",
+		"/C/xampp/htdocs/Upload Video/upload.html",
+		"/C/xampp/htdocs/upload.html",
+		"/C/xampp/htdocs/upload.php",
+		"/C/xampp/htdocs/fetch_image.php",
+		"/C/xampp/htdocs/image.html",
+		"/C/xampp/htdocs/uploadVideos.php",
+		"/C/xampp/htdocs/video.html",
+		"/C/xampp/htdocs/up.php",
+		"/C/Users/Jishnu/Desktop/mysite.html",
+		"/C/Users/Jishnu/Desktop/amigo/about.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/book.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/shedule.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/w3.css",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/profile.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/about.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/myweb.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/blog.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/frameset.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/frame1.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/rider/web/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/club/web/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/user/web/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/amigo.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/music_login_form-web_Free12-04-2018_771022158/web/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/softball_registration_form-web_Free09-01-2018_1761030183/web/css/style.css",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/full_screen_enroll_form_web-web_Free07-01-2019_1150414441/web/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/softball_registration_form-web_Free09-01-2018_1761030183/web/index.html",
+		"/C/Users/Jishnu/Downloads/full_screen_enroll_form_web-web_Free07-01-2019_1150414441/web/css/style.css",
+		"/C/Users/Jishnu/Downloads/full_screen_enroll_form_web-web_Free07-01-2019_1150414441/web/index.html",
+		"/C/Users/Jishnu/Desktop/bike_race-web_Free04-08-2017_531551878/web/amigo/aboutus.html",
+		"/C/Users/Jishnu/Desktop/hello.html",
+		"/C/Users/Jishnu/Desktop/profile.html",
+		"/C/Users/Jishnu/Desktop/anakha.html",
+		"/C/Users/Jishnu/Desktop/frames.html",
+		"/C/Users/Jishnu/Desktop/form.html",
+		"/C/Users/Jishnu/Desktop/style.css"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "user.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
